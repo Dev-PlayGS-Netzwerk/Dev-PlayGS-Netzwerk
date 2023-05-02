@@ -7,7 +7,7 @@
 - 💞️ Wir möchten gerne mit Euch zusammen an unserem Netzwerk arbeiten, daher rufen wir an alle Programmierer bezüglich Java und PHP an, 
       um dieses Netzwerk Einzigartig zu machen.
 
-- 📫 Hier sind wir zu erreichen:
+- 📫 Hier sind wir zu erreichen:<br>
       WhatsApp: +49 157 51578216<br>
       Discord: https://discord.gg/WfnrRaTQn2<br>
       Instagram: https://www.instagram.com/playgs.de<br>
