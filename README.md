@@ -14,7 +14,7 @@
       Twitter: https://twitter.com/playgs_netzwerk<br>
       TikTok: https://www.tiktok.com/@playgs_netzwerk?_t=8bzBcn9rshH&_r=1 <br>
       
-- Unsere Videos/Animationen
+- Unsere Videos/Animationen<br>
       YouTube: https://youtube.com/@playgsde-netzwerk<br>
       Twitch: https://twitch.tv/playgs_netzwerk <br>
       TikTok: https://www.tiktok.com/@playgs_netzwerk?_t=8bzBcn9rshH&_r=1 <br>
