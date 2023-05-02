@@ -8,13 +8,13 @@
       um dieses Netzwerk Einzigartig zu machen.
 
 - 📫 Hier sind wir zu erreichen:
-      WhatsApp: +49 157 51578216
-      Discord: https://discord.gg/WfnrRaTQn2
-      Instagram: https://www.instagram.com/playgs.de
-      Twitter: https://twitter.com/playgs_netzwerk
-      TikTok: https://www.tiktok.com/@playgs_netzwerk?_t=8bzBcn9rshH&_r=1 
+      WhatsApp: +49 157 51578216<br>
+      Discord: https://discord.gg/WfnrRaTQn2<br>
+      Instagram: https://www.instagram.com/playgs.de<br>
+      Twitter: https://twitter.com/playgs_netzwerk<br>
+      TikTok: https://www.tiktok.com/@playgs_netzwerk?_t=8bzBcn9rshH&_r=1 <br>
       
 - Unsere Videos/Animationen
-      YouTube: https://youtube.com/@playgsde-netzwerk
-      Twitch: https://twitch.tv/playgs_netzwerk 
-      TikTok: https://www.tiktok.com/@playgs_netzwerk?_t=8bzBcn9rshH&_r=1 
+      YouTube: https://youtube.com/@playgsde-netzwerk<br>
+      Twitch: https://twitch.tv/playgs_netzwerk <br>
+      TikTok: https://www.tiktok.com/@playgs_netzwerk?_t=8bzBcn9rshH&_r=1 <br>
