@@ -31,16 +31,27 @@
 - IT Basics<br>
 - Fundamentals<br>
 - IPv4 & Networking<br>
-- Linux 75%<br>
+- Linux<br>
 - Building a Website<br>
 - HTML<br>
 - HTML Advanced<br>
 - CSS<br>
+- JavaScript 25%<br>
+- JavaScript Advanced 0%<br>
 - Bulma CSS<br>
 - NextJS<br>
 - SEO<br>
 - NodeJS<br>
 - Java<br>
+```
+```
+ToDo:<br><br>
+
+- UI/UX
+- Bootstrap Framework
+- ExpressJS
+- React Development
+- EmberJS
 ```
 
 # Manager [PGS] Justin Zertifikate:
